@@ -6,5 +6,5 @@ comment: 'utterances'
 ---
 ``` markdown
 [ ] 关于我
-[ ] 2024年年终总结
+[x] 2024年年终总结
 ```
