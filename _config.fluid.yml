@@ -758,7 +758,7 @@ post:
 # Based on GitHub Issues
 # See: https://utteranc.es
 utterances:
-  repo: hao7749/comments
+  repo:
   issue_term: pathname
   label: utterances
   theme: github-light
